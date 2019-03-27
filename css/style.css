@@ -1,0 +1,86 @@
+* { padding:0px; margin:0px; border:0px; }
+body {margin:0px; padding:0px; text-align:center; background-image:url('https://iqresume.com/html/templates/column_green/images/bg.gif'); font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#000000; line-height:16px; }
+
+a { color:#000000; }
+
+h1 {font-family:Tahoma,Arial,Helvetica,sans-serif; font-size:45px; font-weight:bold; color:#79c139; text-align:left; text-transform:uppercase; padding:37px 0px 24px 30px; margin:0px; line-height:54px;}
+h2 {float:left; padding:10px 0px 13px 30px; margin:0px 0px 26px 0px; width:230px; line-height:20px; font-size:16px; font-weight:bold; text-align:right; color:#34495e; border-bottom:1px solid #d9dfe4; }
+h3 {font-size:16px; color:#000000; font-weight:bold; margin:0px 0px 17px 0px;}
+h4 {font-size:15px; color:#2c829b; font-weight:bold; margin:4px 0px 3px 0px;}
+
+table.h2 {height:38px; line-height:38px; font-size:18px; font-weight:bold; color:#ffffff; width:458px; margin:13px 0px 26px 0px; border-collapse:collapse; }
+table.h2 th { background-image:url('https://iqresume.com/html/templates/column_green/images/bg-h2.png'); background-repeat:no-repeat; background-position:right top; padding:0px 42px 0px 30px; height:38px; line-height:38px; font-size:18px; font-weight:bold; text-align:left; color:#ffffff; width:10px; white-space:nowrap; }
+table.h2 th span { white-space:nowrap; }
+
+table.h3 { background-image:url('https://iqresume.com/html/templates/column_green/images/bg-h3.png'); background-repeat:repeat-x; background-position:left center; height:37px; line-height:37px; font-size:14px; font-weight:bold; color:#468310; width:311px; margin:22px 0px 21px 0px; border-collapse:collapse; }
+table.h3 th { background-color:#79c139; background-repeat:no-repeat; background-position:17px center; padding:0px 17px 0px 55px; height:37px; line-height:37px; font-size:14px; font-weight:bold; text-align:center; text-transform:uppercase; color:#468310; width:10px; white-space:nowrap; }
+table.h3 th span { white-space:nowrap; }
+
+table.basicinfo th { background-image:url('https://iqresume.com/html/templates/column_green/images/icon-basicinfo.png'); background-position:17px 2px; padding-left:58px; }
+table.lang th { background-image:url('https://iqresume.com/html/templates/column_green/images/icon-lang.png'); background-position:17px 9px; padding-left:52px; }
+table.driving th { background-image:url('https://iqresume.com/html/templates/column_green/images/icon-driving.png'); background-position:17px 8px; }
+
+table {font-size:12px; line-height:17px; text-align:left; width:100%; border-collapse:collapse;}
+table td {line-height:17px; text-align:left; }
+
+table.ul { margin-top:1px;margin-bottom:12px; line-height:17px; }
+table.ul td {background-image:url('https://iqresume.com/html/templates/column_green/images/bullet.png'); background-repeat:no-repeat; padding:1px 0px 6px 22px !important; background-position:1px 1px; }
+
+div.data { width:425px;margin-bottom:24px;margin-left:30px;margin-right:26px;overflow:hidden; }
+div.data div.title { text-align:left; font-weight:bold; width:180px; font-size:15px; padding-bottom:15px; line-height:22px; color:#2c829b; vertical-align:top; }
+div.data .indent { width:422px; vertical-align:top; padding-bottom:6px; }
+div.data .indentbig { width:422px; vertical-align:top; padding-bottom:10px; font-weight:bold; }
+div.data em { font-weight:normal; }
+div.data table.ul { margin-bottom:0px; }
+
+div.reference { padding-top:0px;padding-bottom:16px;padding-left:0px; margin-bottom:0px; width:425px; }
+
+div.education h3 { margin-bottom:5px; }
+
+div.cert { padding:2px 0px 5px 0px; margin-top:0px; margin-bottom:20px; }
+div.cert h3 { margin-bottom:7px; }
+
+#canvas {width:794px; margin:auto; text-align:left; background-color:#ffffff; background-image:url('https://iqresume.com/html/templates/column_green/images/bg-sidebar.png'); background-repeat:repeat-y; background-position:right top; }
+#content { float:left; width:453px; padding-right:28px; }
+#sidebar { float:right; color:#ffffff; width:311px; padding-top:35px; }
+#sidebar a { color:#ffffff; }
+#sidebar div.indent { margin:0px 28px; padding-bottom:9px; }
+#sidebar div.address { background-image:url('https://iqresume.com/html/templates/column_green/images/icon-point.png'); background-repeat:no-repeat; background-position:2px 2px; padding-left:25px; }
+#sidebar div.tel { background-image:url('https://iqresume.com/html/templates/column_green/images/icon-tel.png'); background-repeat:no-repeat; background-position:2px 2px; padding-left:25px; }
+#sidebar div.mail { background-image:url('https://iqresume.com/html/templates/column_green/images/icon-mail.png'); background-repeat:no-repeat; background-position:0px 5px; padding-left:25px; }
+#sidebar div.web { background-image:url('https://iqresume.com/html/templates/column_green/images/icon-web.png'); background-repeat:no-repeat; background-position:2px 1px; padding-left:25px; }
+#sidebar div.birthday { background-image:url('https://iqresume.com/html/templates/column_green/images/icon-birthday.png'); background-repeat:no-repeat; background-position:0px 2px; padding-left:25px; }
+#sidebar div.familystatus { background-image:url('https://iqresume.com/html/templates/column_green/images/icon-familystatus.png'); background-repeat:no-repeat; background-position:2px 0px; padding-left:25px; }
+
+#sidebar div.lang div.indent { padding-top:1px; padding-bottom:14px; }
+
+#headBg { width:311px; padding:0px 0px 2px 0px; margin-bottom:20px; position:relative; }
+#head { float:left;width:555px;padding-left:30px; }
+
+#imageContainer { background-color:#ffffff; width:124px; height:124px; overflow:hidden; text-align:left; margin:0px auto; }
+#profileImg { float:left; background-image:url('https://iqresume.com/html/templates/column_green/images/img_frame.png'); background-repeat:no-repeat; background-position:center center; width:126px; height:126px; vertical-align:top; }
+#blankImageContainer { width:30px;height:124px; margin:0px auto; padding:0px; }
+
+#basicInfo { float:left;width:580px;padding:22px 0px 20px 0px; overflow:hidden; line-height:20px; margin:0px; }
+
+.highlight { color:#353535; }
+
+.stars { float:left;margin-right:8px; margin-top:3px; height:15px; line-height:15px; vertical-align:middle; padding-bottom:0px;}
+.stars img { margin-top:1px;vertical-align:top;}
+
+table.drivingLicences { height:30px; line-height:30px; margin-bottom:12px; margin-top:0px; }
+table.drivingLicences th { width:10px; white-space:nowrap; padding-right:10px; color:#ffffff; }
+table.drivingLicences th span { white-space:nowrap; }
+table.drivingLicences td.space { width:5px; font-size:0px; white-space:nowrap; } 
+table.drivingLicences td.licence { background-image:url('https://iqresume.com/html/templates/column_green/images/circle.png'); background-repeat:no-repeat; background-position:left top; color:#ffffff; font-size:12px; text-align:center; padding:0px; width:30px; }
+
+#footerwrapper { font-size:0px; }
+#footer {width:100%; background-color:#ffffff; color:#aeaeae; text-align:center; padding:22px 0px 23px 0px; margin-top:10px}
+#footer a { color:#aeaeae; }
+
+.clear {clear:both; display:block; width:100%; height:1px; position:relative;}
+
+.grey { color:#9e9e9e; font-size:14px; }
+
+
+
